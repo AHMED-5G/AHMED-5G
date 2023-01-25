@@ -4,7 +4,8 @@
 
 Skills: React native, Type script, Redux,Animations, PHP laravel , SQL, Postgres, SQL, Rest API - Time management experience - Product management skills - Trello knowledge. - Experience with GIT source control.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmed-5g) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100086148849098) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ad_5g) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>](https://www.freelancer.com/u/Ahmed5G)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100086148849098) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ad_5g) 
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg' alt='freelancer' height='40'>]() -->
 
 
 
@@ -17,7 +18,7 @@ Skills: React native, Type script, Redux,Animations, PHP laravel , SQL, Postgres
 - 🌱 I’m currently learning type script , graphql,<br>- 👯 I’m looking to collaborate on full stack :laravel-react native<br>- 🤔 I’m looking for help with ui/ux<br>- 💬 Ask me about react native redux typescript laravel<br>- 📫 How to reach me: facebook
 
 
-## 🌐 Socials:
+## 🌐 Links:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086148849098) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14738120/ahmed5g) 
 
 

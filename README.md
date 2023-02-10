@@ -5,7 +5,8 @@
 Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postgres, Rest API 
 
 - Time management experience 
-- Product management skills - Trello knowledge. 
+- Product management skills 
+- Trello knowledge. 
 - Experience with GIT source control.
 
 ![Profile views](https://gpvc.arturio.dev/ahmed-5g)

@@ -16,18 +16,17 @@ Skills: React native, Type script, Redux,Animations, PHP laravel , SQL, Postgres
 
 # Review my react native animations
 
-- download expo go application https://expo.dev/client
+- download [Expo Go Application](https://expo.dev/client)
 - scan QR
 
-
 - <a href="exp://exp.host/@ahmed_5g/hotel?release-channel=default">
-   <img
-   width=150 height= 150
-    src="./images/hotelanimation.svg">
-</a>
+     <img
+     width=150 height= 150
+      src="./images/hotelanimation.svg">
+  </a>
 
-- or  past  link:
-exp://exp.host/@ahmed_5g/hotel?release-channel=default
+- or past link:
+  exp://exp.host/@ahmed_5g/hotel?release-channel=default
 
 - https://expo.dev/@ahmed_5g/hotel?serviceType=classic...
 

@@ -2,7 +2,11 @@
 
 #### I am Mobile App Developer
 
-Skills: React native, Type script, Redux,Animations, PHP laravel , SQL, Postgres, SQL, Rest API - Time management experience - Product management skills - Trello knowledge. - Experience with GIT source control.
+Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postgres, Rest API 
+
+- Time management experience 
+- Product management skills - Trello knowledge. 
+- Experience with GIT source control.
 
 ![Profile views](https://gpvc.arturio.dev/ahmed-5g)
 
@@ -16,7 +20,7 @@ Skills: React native, Type script, Redux,Animations, PHP laravel , SQL, Postgres
 
 # Review my react native animations
 
-- download <a href="https://expo.dev/client" target="_blank">Expo Go Application</a>
+- download https://expo.dev/client
 
 - scan QR
 

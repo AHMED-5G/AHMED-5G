@@ -16,7 +16,7 @@ Skills: React native, Type script, Redux,Animations, PHP laravel , SQL, Postgres
 
 # Review my react native animations
 
-- download [Expo Go Application](https://expo.dev/client)
+- download <a href="https://expo.dev/client" target="_blank">Expo Go Application</a>
 - scan QR
 
 - <a href="exp://exp.host/@ahmed_5g/hotel?release-channel=default">

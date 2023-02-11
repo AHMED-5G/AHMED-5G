@@ -9,7 +9,6 @@ Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postg
 - Trello knowledge. 
 - Experience with GIT source control.
 
-![Profile views](https://gpvc.arturio.dev/ahmed-5g)
 
 # 💫 About Me:
 

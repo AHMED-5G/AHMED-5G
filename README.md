@@ -21,7 +21,7 @@ Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postg
 
 
 
-# Review my react native portfolio v0.1
+# Review my react native portfolio application v0.1
 
 - download Expo Go application https://expo.dev/client
 

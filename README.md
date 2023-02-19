@@ -36,7 +36,7 @@ Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postg
 - or past link:
   exp://exp.host/@ahmed_5g/portfolio?release-channel=default
 
-- https://expo.dev/@ahmed_5g/portfolio?serviceType=classic...
+- https://expo.dev/@ahmed_5g/portfolio?serviceType=classic
 
 something went wrong or right ? please let me know.
 

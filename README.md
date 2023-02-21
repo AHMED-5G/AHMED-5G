@@ -58,3 +58,7 @@ something went wrong or right ? please let me know.
 - https://expo.dev/@ahmed_5g/hotel?serviceType=classic...
 
 something went wrong or right ? please let me know.
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Ahmed-Ali/pfbid0ApxqC6JK6Y5bQewcykPmR1dzxpPsL9m28uERD7ixvN1sxFMugj9SsA1wKqZit8kLl/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14738120/ahmed5g) 

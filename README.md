@@ -53,9 +53,9 @@ something went wrong or right ? please let me know.
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Ahmed-Ali/pfbid0ApxqC6JK6Y5bQewcykPmR1dzxpPsL9m28uERD7ixvN1sxFMugj9SsA1wKqZit8kLl/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14738120/ahmed5g)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Ahmed-Ali/100086148849098/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14738120/ahmed5g)
 
-- <a href="https://www.facebook.com/people/Ahmed-Ali/pfbid0ApxqC6JK6Y5bQewcykPmR1dzxpPsL9m28uERD7ixvN1sxFMugj9SsA1wKqZit8kLl/">
+- <a href="https://www.facebook.com/people/Ahmed-Ali/100086148849098/">
      <img
      width=100 height= 100
       src="./images/hire.png">

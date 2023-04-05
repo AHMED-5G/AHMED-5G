@@ -49,6 +49,9 @@ something went wrong or right ? please let me know.
 
 - https://expo.dev/@ahmed_5g/hotel?serviceType=classic...
 
+- more details about project : 
+https://github.com/AHMED-5G/portfolio
+
 something went wrong or right ? please let me know.
 
 ## 🌐 Socials:

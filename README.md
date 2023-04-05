@@ -34,6 +34,9 @@ Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postg
 
 - https://expo.dev/@ahmed_5g/portfolio?serviceType=classic
 
+- more details about project : 
+https://github.com/AHMED-5G/portfolio
+
 something went wrong or right ? please let me know.
 
 # Review my react native animations
@@ -49,8 +52,6 @@ something went wrong or right ? please let me know.
 
 - https://expo.dev/@ahmed_5g/hotel?serviceType=classic...
 
-- more details about project : 
-https://github.com/AHMED-5G/portfolio
 
 something went wrong or right ? please let me know.
 

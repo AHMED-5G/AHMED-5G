@@ -36,7 +36,7 @@ Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postg
 
 something went wrong or right ? please let me know.
 
-# Review my react native animations
+<!-- # Review my react native animations
 
 - <a href="exp://exp.host/@ahmed_5g/hotel?release-channel=default">
      <img
@@ -49,13 +49,13 @@ something went wrong or right ? please let me know.
 
 - https://expo.dev/@ahmed_5g/hotel?serviceType=classic...
 
-something went wrong or right ? please let me know.
+something went wrong or right ? please let me know. -->
 
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Ahmed-Ali/100086148849098/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14738120/ahmed5g)
-[![Stack Overflow](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AD_5G)
+[![twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AD_5G)
 
 - <a href="https://www.facebook.com/people/Ahmed-Ali/100086148849098/">
      <img

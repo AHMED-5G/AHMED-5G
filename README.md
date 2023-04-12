@@ -9,9 +9,12 @@ Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postg
 - Trello knowledge.
 - Experience with GIT source control.
 
-# 💫 About Me:
+#  About Me:
 
-- 🌱 I’m currently learning firebase and graphql.<br>-👯 I’m looking to collaborate on full stack :laravel-react native<br>- 🤔 I’m looking for help with UI/UX<br>- 💬 Ask me about react native, redux and typescript<br>
+- I’m currently learning firebase and graphql.<br>
+- I’m looking to collaborate on full stack : laravel-react native<br>
+- I’m looking for help with UI/UX<br>
+- Ask me about react native, redux and typescript<br>
 
 ### 📧 AHMED_5G@YAHOO.COM
 
@@ -33,6 +36,9 @@ Skills: React native, Type script, Redux, Animations, PHP laravel , MYSQL, Postg
   exp://exp.host/@ahmed_5g/portfolio?release-channel=default
 
 - https://expo.dev/@ahmed_5g/portfolio?serviceType=classic
+
+- more details about project : 
+https://github.com/AHMED-5G/portfolio
 
 something went wrong or right ? please let me know.
 

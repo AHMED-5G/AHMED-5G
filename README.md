@@ -22,7 +22,7 @@ Skills: React native, Type script, Redux, Animations, PHP laravel ,Firebase , MY
  ![GraphQL](https://img.shields.io/badge/-firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-# Review my react native portfolio application v0.4
+# Review my react native portfolio application v0.5
 
 - for android devices download Expo Go application https://expo.dev/client
 

@@ -30,7 +30,6 @@ Skills: React native, Type script, Redux, Animations, PHP laravel ,Firebase , MY
 
 - scan QR
 
-<!-- - <a href="exp://exp.host/@ahmed_5g/portfolio?release-channel=default"> -->
 
 <img
      width=150 height= 150
@@ -51,6 +50,7 @@ something went wrong or right ? please let me know.
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14738120/ahmed5g)
 [![twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AD_5G)
 
+[![wakatime](https://wakatime.com/badge/user/2b8d577c-8421-4136-96aa-e15e59c6a7d8.svg)](https://wakatime.com/@2b8d577c-8421-4136-96aa-e15e59c6a7d8)
 - <a href="https://bento.me/ahmed5g">
      <img
      width=100 height= 100

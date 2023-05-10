@@ -33,11 +33,11 @@ Skills: React native, Type script, Redux, Animations, PHP laravel ,Firebase , MY
 
 <img
      width=150 height= 150
-      src="./images/expo-go-portfolio-default-android.svg">
+      src="./images/eas-update.svg">
 </a>
 
 - or past link:
-  exp://u.expo.dev/update/5d2490bf-41a8-464a-bd82-b884cbe40daa
+  exp://u.expo.dev/update/3e3243a4-6e89-4861-8970-a04cd7d38770
 
 - more details about project :
   https://github.com/AHMED-5G/portfolio

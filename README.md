@@ -2,7 +2,7 @@
 
 #### I am Mobile App Developer
 
-Skills: React native, Type script, Redux, Animations, PHP laravel ,Firebase , MYSQL, Postgres, Rest API
+Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MySQL, Postgres, Rest API
 
 - Time management experience
 - Product management skills
@@ -11,10 +11,10 @@ Skills: React native, Type script, Redux, Animations, PHP laravel ,Firebase , MY
 
 # About Me:
 
-- I’m currently learning graphql.<br>
+- I’m currently learning GraphQL.<br>
 - I’m looking to collaborate on full stack : laravel-react native<br>
 - I’m looking for help with UI/UX<br>
-- Ask me about react native, redux and typescript<br>
+- Ask me about React Native, Redux and typescript<br>
 
 ### 📧 AHMED_5G@YAHOO.COM
 
@@ -22,11 +22,11 @@ Skills: React native, Type script, Redux, Animations, PHP laravel ,Firebase , MY
  ![GraphQL](https://img.shields.io/badge/-firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-# Review my react native portfolio application v0.6
+#  Review my React Native portfolio application v0.6
 
 - for android devices download Expo Go application https://expo.dev/client
 
-- for IOS devices maybe later .
+- for IOS devices, maybe later.
 
 - scan QR
 

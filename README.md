@@ -24,6 +24,12 @@ Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MyS
 
 #  Review my React Native portfolio application v0.7
 
+<img
+     width=400 height= 800
+      src="./images/sh.png">
+</a>
+
+
 - for android devices download Expo Go application https://expo.dev/client
 
 - for IOS devices, maybe later.

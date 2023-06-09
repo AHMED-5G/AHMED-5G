@@ -43,7 +43,7 @@ Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MyS
 </a>
 
 - or past link:
-exp://u.expo.dev/update/48ef4a2c-6d22-47e0-ba57-c938cdc3564e
+exp://u.expo.dev/update/60adad97-a2d1-44d4-ba64-64f81d8eddaf
 
 - more details about project :
   https://github.com/AHMED-5G/portfolio

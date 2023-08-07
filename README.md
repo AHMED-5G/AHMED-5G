@@ -57,5 +57,5 @@ something went wrong or right ? please let me know.
 - <a href="https://bento.me/ahmed5g">
      <img
      width=100 height= 100
-      src="./images/hire.png">
+      src="./images/hire2.png">
   </a>

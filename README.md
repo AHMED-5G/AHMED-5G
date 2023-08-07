@@ -5,8 +5,7 @@
 Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MySQL, Postgres, Rest API
 
 - Time management experience
-- Product management skills
-- Trello knowledge.
+- PMP (product management professional) knowledge.
 - Experience with GIT source control.
 
 # About Me:
@@ -19,16 +18,14 @@ Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MyS
 ### 📧 AHMED_5G@YAHOO.COM
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
- ![GraphQL](https://img.shields.io/badge/-firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white)
 
-
-#  Review my React Native portfolio application v0.7
+# Review my React Native portfolio application v0.7
 
 <img
      width=400 height= 800
       src="./images/sh.png">
 </a>
-
 
 - for android devices download Expo Go application https://expo.dev/client
 
@@ -36,14 +33,13 @@ Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MyS
 
 - scan QR
 
-
 <img
      width=150 height= 150
       src="./images/eas-update.svg">
 </a>
 
 - or past link:
-exp://u.expo.dev/update/60adad97-a2d1-44d4-ba64-64f81d8eddaf
+  exp://u.expo.dev/update/60adad97-a2d1-44d4-ba64-64f81d8eddaf
 
 - more details about project :
   https://github.com/AHMED-5G/portfolio
@@ -57,6 +53,7 @@ something went wrong or right ? please let me know.
 [![twitter](https://img.shields.io/badge/-twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AD_5G)
 
 [![wakatime](https://wakatime.com/badge/user/2b8d577c-8421-4136-96aa-e15e59c6a7d8.svg)](https://wakatime.com/@2b8d577c-8421-4136-96aa-e15e59c6a7d8)
+
 - <a href="https://bento.me/ahmed5g">
      <img
      width=100 height= 100

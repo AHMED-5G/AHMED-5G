@@ -23,7 +23,7 @@ Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MyS
 # Review my React Native portfolio application v0.7
 
 <img
-     width=400 height= 800
+     width=375 height= 800
       src="./images/sh.png">
 </a>
 
@@ -39,7 +39,7 @@ Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MyS
 </a>
 
 - or past link:
-  exp://u.expo.dev/update/60adad97-a2d1-44d4-ba64-64f81d8eddaf
+  exp://u.expo.dev/update/086e8b61-8371-46d5-a7cb-dda0edb16b61
 
 - more details about project :
   https://github.com/AHMED-5G/portfolio

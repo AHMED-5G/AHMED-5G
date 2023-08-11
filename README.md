@@ -27,11 +27,11 @@ Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MyS
       src="./images/sh.png">
 </a>
 
-- for android devices download Expo Go application https://expo.dev/client
+- For android devices download Expo Go application https://expo.dev/client
 
-- for IOS devices, maybe later.
+- For IOS devices, maybe later.
 
-- scan QR
+- Scan QR
 
 <img
      width=150 height= 150

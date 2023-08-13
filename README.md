@@ -10,7 +10,7 @@ Skills: React Native, Type script, Redux, Animations, PHP Laravel, Firebase, MyS
 
 # About Me:
 
-- I’m currently learning Kotlin.<br>
+- I’m currently learning Supabase.<br>
 - I’m looking to collaborate on full stack : laravel-react native<br>
 - I’m looking for help with UI/UX<br>
 - Ask me about React Native, Redux and typescript<br>

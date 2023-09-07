@@ -11,7 +11,7 @@ Skills: React Native, Type script, Animations, NestJS, PHP Laravel, Firebase, My
 # About Me:
 
 - I’m currently learning NestJS.<br>
-- I’m looking to collaborate on full stack : laravel-react native<br>
+- I’m looking to collaborate on full stack : nestjs - react native<br>
 - I’m looking for help with UI/UX<br>
 - Ask me about React Native, Redux and typescript<br>
 

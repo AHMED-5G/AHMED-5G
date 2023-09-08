@@ -35,11 +35,11 @@ Skills: React Native, Type script, Animations, NestJS, PHP Laravel, Firebase, My
 
 <img
      width=150 height= 150
-      src="./images/eas-update.svg">
+      src="./images/eas-update09.svg">
 </a>
 
 - or past link:
-  exp://u.expo.dev/update/086e8b61-8371-46d5-a7cb-dda0edb16b61
+  exp://u.expo.dev/update/e56e67f4-a606-45b0-8bbe-7d38661c2061
 
 - more details about project :
   https://github.com/AHMED-5G/portfolio

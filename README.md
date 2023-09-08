@@ -20,7 +20,7 @@ Skills: React Native, Type script, Animations, NestJS, PHP Laravel, Firebase, My
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23ea2845.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![firebase](https://img.shields.io/badge/-firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white)
 
-# Review my React Native portfolio application v0.8
+# Review my React Native portfolio application v0.9
 
 <img
      width=375 height= 800

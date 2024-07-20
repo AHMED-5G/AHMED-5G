@@ -10,10 +10,11 @@ Skills: React Native, Type script, Animations, NestJS, PHP Laravel, Firebase, My
 
 # About Me:
 
-- I’m currently learning NestJS.<br>
-- I’m looking to collaborate on full stack : nestjs - react native<br>
-- I’m looking for help with UI/UX<br>
-- Ask me about React Native, Redux and typescript<br>
+I am a seasoned Mobile App Developer specializing in React Native and TypeScript, with a strong emphasis on full-stack development. I bring extensive experience in every stage of the product lifecycle, from initial concept design through database architecture and user journey optimization. My expertise spans creating responsive designs with pixel-perfect precision, leveraging micro-interactions to enhance user experiences across mobile and web platforms.
+
+In addition to my technical skills, I excel in project management and product ownership, having streamlined processes that saved significant resources and improved development efficiency. My background includes building robust REST APIs, utilizing Git for version control, and proficiency in frameworks such as NestJS, PHP Laravel, Firebase, and databases like MySQL and Postgres.
+
+Currently, I am focused on mastering NestJS and eager to collaborate on innovative full-stack projects combining NestJS with React Native. I am seeking opportunities to work alongside UX developers to further enhance user-centric designs and am open to providing strategic insights and business advice, drawing from my sales experience to strengthen customer relationships and refine project plans.
 
 ### 📧 AHMED_5G@YAHOO.COM
 

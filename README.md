@@ -51,7 +51,6 @@ something went wrong or right ? please let me know.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-5g/)
 [![twitter](https://img.shields.io/badge/--black?logo=X&logoColor=white)](https://twitter.com/AD_5G)
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Ahmed-Ali/100086148849098/)
 [![wakatime](https://wakatime.com/badge/user/2b8d577c-8421-4136-96aa-e15e59c6a7d8.svg)](https://wakatime.com/@2b8d577c-8421-4136-96aa-e15e59c6a7d8)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14738120/ahmed5g)

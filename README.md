@@ -28,19 +28,16 @@ Currently, I am focused on mastering NestJS and eager to collaborate on innovati
       src="./images/sh.png">
 </a>
 
-- For android devices download Expo Go application https://expo.dev/client
-
-- For IOS devices, maybe later.
+- Download Expo Go application https://expo.dev/client
 
 - Scan QR
 
 <img
      width=150 height= 150
-      src="./images/eas-update09.svg">
+      src="./images/port51.png">
 </a>
 
-- or past link:
-  exp://u.expo.dev/update/e56e67f4-a606-45b0-8bbe-7d38661c2061
+- or open this link : **[Preview](https://expo.dev/preview/update?message=expo51&updateRuntimeVersion=exposdk%3A51.0.0&createdAt=2024-07-24T22%3A15%3A33.148Z&slug=exp&projectId=b89f6c6b-eacd-4624-bc60-d11d3b0f12f3&group=906c1ce4-cafa-494f-bbe9-fcdef9f5c8d9)**
 
 - more details about project :
   https://github.com/AHMED-5G/portfolio

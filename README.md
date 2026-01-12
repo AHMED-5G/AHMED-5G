@@ -15,7 +15,7 @@ I am a **seasoned Mobile App Developer** specializing in **React Native** and **
 
 My expertise lies in crafting responsive, pixel-perfect designs enhanced by **fluid micro-interactions**, ensuring a premium user experience across all platforms.
 
-- 🛠 **Expertise:** React Native, TypeScript, Reanimated, NestJS, PHP Laravel.
+- 🛠 **Expertise:** React Native, TypeScript, Reanimated, NestJS.
 - 🏗 **Architecture:** Clean Code, Design Patterns, Database Scaling (MySQL/Postgres).
 - 📈 **Management:** PMP knowledge, Project Management, Product Ownership.
 - 🤝 **Collaboration:** Open to innovative full-stack projects and UI/UX partnerships.
